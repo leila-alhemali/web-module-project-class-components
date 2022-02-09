@@ -48,3 +48,7 @@ nav a {
 nav a.active {
   color: #ff4b00;
 }
+
+.completed {
+  text-decoration: line-through
+}
